@@ -1,0 +1,10 @@
+C:\Users\aggeb\source\repos\yep talräknare\yep talräknare\bin\Debug\yep talräknare.exe.config
+C:\Users\aggeb\source\repos\yep talräknare\yep talräknare\bin\Debug\yep talräknare.exe
+C:\Users\aggeb\source\repos\yep talräknare\yep talräknare\bin\Debug\yep talräknare.pdb
+C:\Users\aggeb\source\repos\yep talräknare\yep talräknare\obj\Debug\yep talräknare.csprojAssemblyReference.cache
+C:\Users\aggeb\source\repos\yep talräknare\yep talräknare\obj\Debug\yep_talräknare.Form1.resources
+C:\Users\aggeb\source\repos\yep talräknare\yep talräknare\obj\Debug\yep_talräknare.Properties.Resources.resources
+C:\Users\aggeb\source\repos\yep talräknare\yep talräknare\obj\Debug\yep talräknare.csproj.GenerateResource.cache
+C:\Users\aggeb\source\repos\yep talräknare\yep talräknare\obj\Debug\yep talräknare.csproj.CoreCompileInputs.cache
+C:\Users\aggeb\source\repos\yep talräknare\yep talräknare\obj\Debug\yep talräknare.exe
+C:\Users\aggeb\source\repos\yep talräknare\yep talräknare\obj\Debug\yep talräknare.pdb
